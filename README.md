@@ -5,7 +5,18 @@
 This project demonstrates the implementation of Microsoft Defender for Cloud in an Azure environment following enterprise security best practices.
 
 The lab focuses on enabling cloud-native security posture management (CSPM), workload protection, security recommendations, regulatory compliance, attack path analysis, and continuous monitoring to improve the security posture of Azure resources.
+---------
+---
 
+# 🏗️ Solution Architecture
+
+The following architecture illustrates the enterprise implementation of Microsoft Defender for Cloud, including Cloud Security Posture Management (CSPM), workload protection, regulatory compliance, attack path analysis, security alerts, workflow automation, and continuous export.
+
+<p align="center">
+  <img src="Architecture/azure-defender-for-cloud-architecture.png" width="100%">
+</p>
+
+---
 ---
 
 ## Project Objectives
