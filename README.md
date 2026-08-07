@@ -20,7 +20,7 @@ The implementation focuses on improving cloud security posture by enabling workl
 The following diagram represents the Microsoft Defender for Cloud implementation performed during this project.
 
 <p align="center">
-<img src="Architecture/azure-defender-for-cloud-security-architecture.png" width="100%">
+  <img src="Architecture/architecture-diagram.png" width="100%">
 </p>
 
 ---
